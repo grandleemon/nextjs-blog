@@ -9,7 +9,7 @@ export default function FirstPost() {
     return (
         <Layout>
             <Head>
-                <title>Posts</title>
+                <title>First post</title>
             </Head>
             <Script
                 src="https://connect.facebook.net/en_US/sdk.js"
@@ -33,6 +33,5 @@ export default function FirstPost() {
             </style>
         </Layout>
 
-        
     )
 }
